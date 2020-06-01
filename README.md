@@ -12,7 +12,7 @@ We trace back our origins to the pioneering work that was done to create the pub
 
 ## SPARK AR Open Program
   
-This course is about Augmented Reality and how to work on Facebook Spark AR platform and associated technologies. The entire module is divided into 10 modules followed by a Capstone Project on the basis of the respective themes given which the scholarship received participant has to do. Top 25 teams from the entire program will be selected for the demo day.
+This course is about Augmented Reality and how to work on Facebook Spark AR platform and associated technologies. The entire module is divided into 10 modules followed by a Capstone Project on the basis of the respective themes given which the scholarship received participant has to do. Top 25 teams from the entire program will be selected for the demo day.I am selected in this program after an exam round followed by an interview to mark my position in the top 500 students from 10000 applicants and currently working on it.
 
 ## Various Technologies and Tools are used here which are listed as follows:-  
 #### BLENDER  
