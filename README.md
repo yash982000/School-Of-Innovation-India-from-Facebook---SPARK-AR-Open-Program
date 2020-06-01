@@ -9,11 +9,15 @@ We are currently piloting with select industry partners (Facebook and Freshworks
 ## SV.CO's Origins
   
 We trace back our origins to the pioneering work that was done to create the public-private partnership model incubator “Startup Village” that won numerous awards and helped create the model for a startup ecosystem in the state of Kerala, India.
+
+## SPARK AR Open Program
   
 This course is about Augmented Reality and how to work on Facebook Spark AR platform and associated technologies.  
-Various Technologies and Tools are used here which are listed as follows:-  
-Blender  
-Facebook Spark AR      
-JavaScript   
+
+## Various Technologies and Tools are used here which are listed as follows:-  
+### Blender  
+### SPARK AR      
+### JavaScript
+### Reactive Programming & Scripting
 
 
