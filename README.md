@@ -1,4 +1,4 @@
-# School-Of-Innovation-India-from-Facebook---SPARK-AR-Open-Program    
+# School-Of-Innovation-India-from-Facebook:-SPARK-AR-Open-Program    
       
       
 ## About SV.CO
