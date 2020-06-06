@@ -17,7 +17,7 @@ This course is about Augmented Reality and how to work on Facebook Spark AR plat
 ## Various Technologies and Tools are used here which are listed as follows:-  
 #### BLENDER  
 #### SPARK AR      
-#### JAVASCRIPT
+#### JAVASCRIPT  
 #### REACTIVE PROGRAMMING & SCRIPTING
 
 
