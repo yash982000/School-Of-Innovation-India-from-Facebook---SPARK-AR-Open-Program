@@ -1,6 +1,6 @@
-# School-Of-Innovation-India-from-Facebook:-SPARK-AR-Open-Program       
+# School-Of-Innovation-India-from-Facebook:-SPARK-AR-Open-Program    
+          
       
-        
 ## About SV.CO
 
 Startup Village Collective (SV.CO) is a mission based organisation to build the collective network for teaching and learning.  
